@@ -1,2 +1,2 @@
-# fktgis.github.io
+# frankkwametanno.github.io
 Personal Website
